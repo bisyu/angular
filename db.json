@@ -1,7 +1,7 @@
 [
   {
-    "name": test,
-    "email":testemail,
-    "contact":12345
+    "name": "test",
+    "email":"testemail",
+    "contact":"test"
   },
 ]
